@@ -15,7 +15,7 @@
 ## 🧑‍💻 À propos de moi
 
 ```yaml
-name: "[TonPrénom TonNom]"
+name: "Malo LELANDAIS"
 role: "Junior DevOps Engineer"
 location: "France 🇫🇷"
 currently_learning: ["Kubernetes", "Terraform", "GitOps"]
